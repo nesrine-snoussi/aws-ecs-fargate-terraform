@@ -3,12 +3,12 @@ module "vpc" {
  
 }
 
-module "ecs" {
- source = "./modules/ecs"
- 
-}
-
 module "ecr" {
  source = "./modules/ecr"
- 
+
+}
+
+module "ecs" {
+ source = "./modules/ecs"
+
 }
