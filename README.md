@@ -2,7 +2,7 @@
 
 This project is an Infrastructure as Code (IaC) solution developed with Terraform for deploying a microservices application as containerized applications in Amazon ECS. It leverages the power of Terraform to automate the provisioning and management of AWS resources, ensuring a scalable, reliable, and efficient deployment of microservices.
 
-![Infrastructure Diagram](https://github.com/nesrine-snoussi/aws-ecs-fargate-terraform/blob/master/ECS.png)
+![Infrastructure Diagram](https://github.com/nesrine-snoussi/aws-ecs-fargate-terraform/blob/master/Infrastructure%20Diagram.png)
 
 ## Type of the Cloud Architecture: Public Cloud architecture
 
